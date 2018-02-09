@@ -1,8 +1,12 @@
+<!--changed as of FEB9--> 
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.ionic.starter" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Feb3IonicFirebase</name>
-    <description>An awesome Ionic/Cordova app.</description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">Ionic Framework Team</author>
+<!--changed: the id attribute to your github to be able to see our packages-->
+<!--allows you to seperate your projects, or else everything has the same name-->
+<widget id="io.github.huynhandrew.ionicwebdb" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <!--changed: name, description, author-->
+    <name>Lyric Checker</name>
+    <description>Learning a new song? Type in the lyrics, and check out ones you've got down!</description>
+    <author email="hi@ionicframework" href="http://ionicframework.com/">Moustached Lizard</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
