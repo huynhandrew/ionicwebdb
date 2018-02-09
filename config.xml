@@ -1,5 +1,5 @@
-<!--changed as of FEB9--> 
 <?xml version='1.0' encoding='utf-8'?>
+<!--changed as of FEB9--> 
 <!--changed: the id attribute to your github to be able to see our packages-->
 <!--allows you to seperate your projects, or else everything has the same name-->
 <widget id="io.github.huynhandrew.ionicwebdb" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
